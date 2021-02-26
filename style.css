@@ -75,7 +75,7 @@ img {
 /* RESPONSIVE */
 
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   .row {
     width: 100%;
     display: block;
@@ -85,7 +85,7 @@ img {
 
 /* lezioni */
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   #lezioni .row>.left,
   #lezioni .row>.right {
     width: 100%;
@@ -95,13 +95,13 @@ img {
 
 /* steps*/
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   #steps .row {
     background-color: #f9f9f9;
   }
 } 
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right {
@@ -112,7 +112,7 @@ img {
 
 /* why */
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   #why .row {
     background-color: #f9f9f9;
   }
