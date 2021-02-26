@@ -98,6 +98,7 @@ img {
 @media screen and (max-width: 419px) {
   #steps .row {
     background-color: #f9f9f9;
+    margin-top: 50px;
   }
 } 
 
@@ -106,7 +107,7 @@ img {
   #steps .row>.central,
   #steps .row>.right {
     width: 100%;
-    margin-top: 80px;
+    margin-top: 30px;
   }
 }
 
@@ -115,6 +116,7 @@ img {
 @media screen and (max-width: 419px) {
   #why .row {
     background-color: #f9f9f9;
+    margin-top: 50px;
   }
 }
   
